@@ -13,5 +13,3 @@ C++ <img width="20" heigth="30" src="https://download.logo.wine/logo/C%2B%2B/C%2
 Besides <b>Construct</b> and <b>Unit</b>.<br>
 <br>
 
-
-<img width="100" heigth="200" src="https://tenor.com/view/pepega-pepe-the-frog-gun-shooting-gif-16396270.gif">
